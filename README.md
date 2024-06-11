@@ -28,3 +28,13 @@ Finally, if the user is trying to update a student that has already been updated
 
 ![image](https://github.com/seifeldin123/-DataBank-JSF-JPA-EJB-BootStrap-Student-/assets/133134492/2fc90707-0334-412a-8618-36b337d21be2)
 
+User is trying to update a student that has already been updated by another user
+![image](https://github.com/seifeldin123/-DataBank-JSF-JPA-EJB-BootStrap-Student-/assets/133134492/a46b7796-7198-41b3-9acc-c454f9fcb997)
+
+After completing this project, 
+I will have achieved the following: 
+1. Use JSF in conjunction with new EE components:  EJBs and JPA
+2. Create a model class for JPA with all appropriate mappings/annotations
+3. Use a JSF @ViewScoped managed bean
+4. Add validation to JSF views
+5. Use Bootstrap CSS framework to layout and style the Student Directory application as a SPA 
